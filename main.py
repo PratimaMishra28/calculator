@@ -2,7 +2,6 @@ from Calculator import Calculator
 
 if __name__ == '__main__':
 
-    #this is calling process.
     calc = Calculator()
 
     # Call methods
